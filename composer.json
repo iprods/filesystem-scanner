@@ -1,0 +1,23 @@
+{
+    "name": "iprods/filesystem-scanner",
+    "description": "A simple file system scanner.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florian Schuessel",
+            "email": "fs@iprods.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Iprods\\Filesystem\\Scanner\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.3",
+        "mikey179/vfsStream": "~1.6"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}

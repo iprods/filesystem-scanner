@@ -1,0 +1,5 @@
+suites:
+    filesystem_scanner_suite:
+        namespace: Iprods\Filesystem\Scanner
+        psr4_prefix: Iprods\Filesystem\Scanner
+formatter.name: pretty
