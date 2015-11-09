@@ -1,5 +1,7 @@
 # Iprods Filesystem Scanner
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/iprods/filesystem-scanner/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/iprods/filesystem-scanner/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/iprods/filesystem-scanner/badges/build.png?b=master)](https://scrutinizer-ci.com/g/iprods/filesystem-scanner/build-status/master)
+
 This small library aims to add some useful helpers for working with file systems.
 
 ## Installation
