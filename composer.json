@@ -8,6 +8,9 @@
             "email": "fs@iprods.org"
         }
     ],
+    "require": {
+        "php": ">=5.5.9"
+    },
     "autoload": {
         "psr-4": {
             "Iprods\\Filesystem\\Scanner\\": "src/"
